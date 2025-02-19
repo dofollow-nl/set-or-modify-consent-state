@@ -1,5 +1,5 @@
 homepage: "https://dofollow.nl"
 documentation: "https://github.com/dofollow-nl/set-or-modify-consent-state"
 versions:
-  - sha: 7d37dedd4a80699fd1d6f42e55561159aa6db532
+  - sha: e5c51f0d7d2c755fe2cc289fac5190b5f756ce29
     changeNotes: Initial release.
